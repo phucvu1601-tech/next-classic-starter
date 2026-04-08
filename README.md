@@ -68,7 +68,13 @@ Components are added directly to the project and can be customized as needed.
 └── package.json
 ```
 
-## Development
+## Usage
+
+Clone or download the source code, then initialize a new repository:
+
+```bash
+git init
+```
 
 Install dependencies:
 
@@ -76,7 +82,7 @@ Install dependencies:
 npm install
 ```
 
-Run development server:
+Start the development server:
 
 ```bash
 npm run dev
